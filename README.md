@@ -1,5 +1,5 @@
 # Hello-World
-First Repository - list of ideas, notes, scratch, etc.
+First Repository - My bio, and I put some of my art up as well, just for kicks!
 
 
 My name is Kevin, and I am a mechanical/electrical engineer aspiring to become a software engineer as well.
